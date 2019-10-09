@@ -1,0 +1,4 @@
+name = "AbstractAtoms"
+uuid = "0cf89407-6866-4ccb-b1c0-f96114f2e8ae"
+authors = ["Sakse Dalum <dalum@users.noreply.github.com>"]
+version = "0.1.0"
